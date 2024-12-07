@@ -7,10 +7,15 @@ Tested and debugged key functionalities to ensure secure role-based workflows.
 
 To start setting up the project 
 step 1:clone the git
+
 step 2:npm install
+
 step 3:Put the  credentials in the .env file as 
+
 PORT=3000
 MONGODB_URI=YOUR_MONGODB_URI(example: mongodb://localhost:27017)
 DB_NAME=YOUR_DB_NAME
+
 step 4:sudo service mongod start
+
 step 5:npm start
